@@ -1,1 +1,1 @@
-Scannarai using vit for classification deepfake frome huggingface noiseprint for forgrey detectioon 
+Scannarai using vit for classification deepfake from huggingface noiseprint for forgrey detectioon 
