@@ -1,0 +1,9 @@
+SECRET_KEY=your-secret-key-here
+DATABASE_URL=sqlite:///./clario.db
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USERNAME=your-email@gmail.com
+SMTP_PASSWORD=your-app-password
+FRONTEND_URL=http://localhost:3000
+
+
